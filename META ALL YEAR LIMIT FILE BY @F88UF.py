@@ -47,7 +47,7 @@ from rich.panel import Panel
 from threading import Thread
 def check_date():
     current_date = datetime.now().date()
-    target_date = datetime(2025, 3,17)  .date()
+    target_date = datetime(2026,03,17)  .date()
     if current_date >= target_date:
         print('\n - ✨🌟 AWWW 😿 Year, File To Expire Hogyi...! 💔📂 Koi Na 😃, @F88UF (HARSH) CONTACT ME! 📜🔄🐒💫')
         webbrowser.open("https://t.me/F88UF")
@@ -72,7 +72,7 @@ print(f'''\n
                       {META}
                       
  
-                THIS FILE EXPIRE ON 17 MARCH :)
+         Kuch Change Keya File Me To Sara Data Formate:)
    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛    
         ''')
 print(f'\x1b[1;39m━'*60)
@@ -490,7 +490,7 @@ def InfoAcc(username, gg):
     total += 1
     ss = f'''
 ─────────────────── 
- Le Bhenchomd Hit Aya - {total}
+ Le Skull Bhai Hit Aya - {total}
  Is Meta Enabled - {meta}
  Is Buisness - {bizz}
  Is Verified - {is_verified}

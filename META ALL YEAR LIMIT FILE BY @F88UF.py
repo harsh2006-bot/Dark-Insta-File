@@ -47,7 +47,7 @@ from rich.panel import Panel
 from threading import Thread
 def check_date():
     current_date = datetime.now().date()
-    target_date = datetime(2026, 3,17)  .date()
+    target_date = datetime(2025, 3,19)  .date()
     if current_date >= target_date:
         print('\n - ✨🌟 AWWW 😿 Year, File To Expire Hogyi...! 💔📂 Koi Na 😃, @F88UF (HARSH) CONTACT ME! 📜🔄🐒💫')
         webbrowser.open("https://t.me/F88UF")

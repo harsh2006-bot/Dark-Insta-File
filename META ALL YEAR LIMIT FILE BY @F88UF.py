@@ -91,14 +91,15 @@ def pppp():
     sys.stdout.flush()
 
 a = print(f"""
-{cyan}┏━━━━━━━━━━━━━━━━━━━━█████████████████████████████████████████  
+{cyan}
+████████████████████████████████████
 █                                        █  
 █           ✦ 【ＭＥＴＡ】 ✦              █  
 █                                        █  
-█   ⚠ Warning: File ko edit mat karna    █  
+█   ⚠ Warning: File ko edit mat karna   █  
 █      Koi bhi change = Data loss ❌     █  
 █                                        █  
-█████████████████████████████████████████  
+████████████████████████████████████ 
 ━━━━━━━━━━━━━━━━━━━━━━━━━┓
 {cyan}┃ {blue}-> {white}Select The Year You Want To Hunt For {blue}-> {cyan} ┃
 {cyan}┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃

@@ -1,5 +1,4 @@
-import webbrowser
-webbrowser.open("https://t.me/F88UF9844")
+
 import time
 import requests
 from colorama import Style
@@ -65,9 +64,25 @@ M = "\033[1m\033[36m"
 white = "\033[1m\033[37m"
 orange = "\033[1m\033[38;5;208m"
 reset = "\033[0m"
-META = render('{HARSH:)     INSTA   FILE }', colors=['white', 'red'], align='center')
+META = render('{SKULL}', colors=['white', 'red'], align='center')
 print(f'''\n
+  ┏=✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦=┓   
 
+                             🌟                               ⋆                                                        ✨                                    
+     ☀️                                               🪐
+
+                     🌑                                       🌍  
+                                                                  
+                                 {META} 
+                         
+                          🚀                            🌙   
+   
+              💫                   ✮                             🌞    🌕                    🌑                   🌠
+
+                          🪐                ☄️                 🌌
+┗=✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦=┛  
+  
+    
         ''')
 print(f'\x1b[1;39m━'*60)
 ID = input('Enter Your Chat Id Bro! ->  ')
@@ -91,17 +106,8 @@ def pppp():
     sys.stdout.flush()
 
 a = print(f"""
-{cyan}
-████████████████████████████████████
-█                                        █  
-█           ✦ 【ＭＥＴＡ】 ✦              █  
-█                                        █  
-█   ⚠ Warning: File ko edit mat karna   █  
-█      Koi bhi change = Data loss ❌     █  
-█                                        █  
-████████████████████████████████████ 
-━━━━━━━━━━━━━━━━━━━━━━━━━┓
-{cyan}┃ {blue}-> {white}Select The Year You Want To Hunt For {blue}-> {cyan} ┃
+{cyan}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+{cyan}┃ {blue}-> {blue}Select The Year You Want To Hunt For {white}-> {cyan} ┃
 {cyan}┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃
 {cyan}┃ {orange}-> {blue}1{white} - {yellow}2011                             {cyan}    ┃
 {cyan}┃ {orange}-> {blue}2{white} - {yellow}2012                             {cyan}    ┃
@@ -115,7 +121,7 @@ a = print(f"""
 {cyan}┃ {orange}-> {blue}0{white} - {yellow}2011 {white}~ {yellow}2023                  {cyan}        ┃
 {cyan}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 """)
-ShridharX = input(f"{green}-> {white}Please type the number of your choice: {reset}")
+ShridharX = input(f"{red}-> {white}Please type the number of your choice: {reset}")
 
 if ShridharX == '1':
     bbk = 10000
@@ -492,24 +498,25 @@ def InfoAcc(username, gg):
 
     total += 1
     ss = f'''
-─────────────────── 
- Le Skull Bhai Hit Aya - {total}
- Is Meta Enabled - {meta}
- Is Buisness - {bizz}
- Is Verified - {is_verified}
- Follower - {fows}
- Following - {fowg}
- Post - {pp}
- Bio - {bio}
- Private - {isPraise}
- Full Name - {full_name}
- ID - {Id}
- Domain - {gg}
- Username - @{username}
- E-Mail - {username}@{gg}
- Rest - {rest(username)}
- Url - https://www.instagram.com/{username}
-─────────────────── 
+========================
+ SKULL💀 BRO! Hit - {total}
+Meta Enabled - {meta} 𓂀
+Buisness - {bizz} 🪐
+Verified - {is_verified} 🔒
+Follower - {fows} 🌟
+Following - {fowg} ⚡
+Post - {pp} 🌙
+Bio - {bio} ✨
+Private - {isPraise} 🛸
+Full Name - {full_name} 💫
+ID - {Id} ⛓️
+Domain - {gg} 🌌
+Username - @{username} ✦
+E-Mail - {username}@{gg} 📧
+Rest - {rest(username)} 🌀
+Url - https://www.instagram.com/{username} 🌍
+
+========================
 By @F88UF | @F88UF9844
 '''
 

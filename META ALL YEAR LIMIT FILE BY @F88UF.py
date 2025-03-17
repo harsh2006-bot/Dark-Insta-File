@@ -47,7 +47,7 @@ from rich.panel import Panel
 from threading import Thread
 def check_date():
     current_date = datetime.now().date()
-    target_date = datetime(2025, 3,17)  .date()
+    target_date = datetime(2025, 3,19)  .date()
     if current_date >= target_date:
         print('\n - ✨🌟 AWWW 😿 Year, File To Expire Hogyi...! 💔📂 Koi Na 😃, @F88UF (HARSH) CONTACT ME! 📜🔄🐒💫')
         webbrowser.open("https://t.me/F88UF")
@@ -67,13 +67,7 @@ orange = "\033[1m\033[38;5;208m"
 reset = "\033[0m"
 META = render('{HARSH:)     INSTA   FILE }', colors=['white', 'red'], align='center')
 print(f'''\n
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   
-     
-                      {META}
-                      
- 
-         Kuch Change Keya File Me To Sara Data Formate:)
-   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛    
+
         ''')
 print(f'\x1b[1;39m━'*60)
 ID = input('Enter Your Chat Id Bro! ->  ')
@@ -97,7 +91,15 @@ def pppp():
     sys.stdout.flush()
 
 a = print(f"""
-{cyan}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+{cyan}┏━━━━━━━━━━━━━━━━━━━━█████████████████████████████████████████  
+█                                        █  
+█           ✦ 【ＭＥＴＡ】 ✦              █  
+█                                        █  
+█   ⚠ Warning: File ko edit mat karna    █  
+█      Koi bhi change = Data loss ❌     █  
+█                                        █  
+█████████████████████████████████████████  
+━━━━━━━━━━━━━━━━━━━━━━━━━┓
 {cyan}┃ {blue}-> {white}Select The Year You Want To Hunt For {blue}-> {cyan} ┃
 {cyan}┃━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┃
 {cyan}┃ {orange}-> {blue}1{white} - {yellow}2011                             {cyan}    ┃

@@ -68,15 +68,16 @@ META = render('{SKULL}', colors=['white', 'red'], align='center')
 print(f'''\n
  ┏=✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦=┓   
      *This File Expire On 2025-03-19
-             Kuch       Be   🌟     change                    ⋆                                                 
-     ☀️                                               🪐
+            Don't      Try   🌟  To
+	                      ⋆                                                 
+     ☀️              Change                                 🪐
 
-       Kiya          🌑                                       🌍  
+              🌑                                       🌍  
                                                     To              
                                  {META} 
-                         
-                 Sara         🚀                            🌙   
- 
+        Otherwise                 
+                         🚀                            🌙   
+ Your       All
               💫            ✮         Data    🌞     
 🌕                    🌑                   🌠
 

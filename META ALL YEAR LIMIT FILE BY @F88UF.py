@@ -64,7 +64,7 @@ M = "\033[1m\033[36m"
 white = "\033[1m\033[37m"
 orange = "\033[1m\033[38;5;208m"
 reset = "\033[0m"
-META = render('{SKULL}', colors=['white', 'red'], align='center')
+META = render('{HARSH}', colors=['white', 'red'], align='center')
 print(f'''\n
  ┏=✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦✦=┓   
      *This File Expire On 2025-03-19
@@ -501,7 +501,7 @@ def InfoAcc(username, gg):
     total += 1
     ss = f'''
 ========================
- SKULL💀 BRO! Hit - {total}
+ HARSH💀 BRO! Hit - {total}
 Meta Enabled - {meta} 𓂀
 Buisness - {bizz} 🪐
 Verified - {is_verified} 🔒
